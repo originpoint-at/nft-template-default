@@ -1,0 +1,9 @@
+# ignore all files
+*
+
+# expects
+!.gitignore
+!/image
+!/image/**
+!layouts.yaml
+!README.md

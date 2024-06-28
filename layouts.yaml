@@ -1,0 +1,71 @@
+template: default
+engine: 0.1.0
+config:
+  mime: image/png
+  size:
+    width: 64
+    height: 64
+  option:
+    user_selectable: false
+    onchain_storage: true
+items:
+  - token_id: 1
+    image_uri: 'item_01.png'
+    nft_traits:
+      - trait_type: letter
+        display_type: string
+        value: a
+  - token_id: 2
+    image_uri: 'item_02.png'
+    nft_traits:
+      - trait_type: letter
+        display_type: string
+        value: b
+  - token_id: 3
+    image_uri: 'item_03.png'
+    nft_traits:
+      - trait_type: letter
+        display_type: string
+        value: c
+  - token_id: 4
+    image_uri: 'item_04.png'
+    nft_traits:
+      - trait_type: letter
+        display_type: string
+        value: d
+  - token_id: 5
+    image_uri: 'item_05.png'
+    nft_traits:
+      - trait_type: letter
+        display_type: string
+        value: e
+  - token_id: 6
+    image_uri: 'item_06.png'
+    nft_traits:
+      - trait_type: letter
+        display_type: string
+        value: f
+  - token_id: 7
+    image_uri: 'item_07.png'
+    nft_traits:
+      - trait_type: letter
+        display_type: string
+        value: g
+  - token_id: 8
+    image_uri: 'item_08.png'
+    nft_traits:
+      - trait_type: letter
+        display_type: string
+        value: h
+  - token_id: 9
+    image_uri: 'item_09.png'
+    nft_traits:
+      - trait_type: letter
+        display_type: string
+        value: i
+  - token_id: 10
+    image_uri: 'item_10.png'
+    nft_traits:
+      - trait_type: letter
+        display_type: string
+        value: j
